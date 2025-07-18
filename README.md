@@ -33,6 +33,22 @@ README.md => Este archivo
    ```bash
    dotnet restore
 
+
+💻 Ejecutar Frontend (React)
+Abre una terminal en la carpeta /frontcrud.
+
+Instala las dependencias:
+
+npm install
+Ejecuta la aplicación:
+
+npm run dev
+Abre tu navegador en:
+
+http://localhost:5173
+
+
+
 ✍️ Autor
 Kevin Quevedo
 📧 [kevin.qb99@gmail.com]
